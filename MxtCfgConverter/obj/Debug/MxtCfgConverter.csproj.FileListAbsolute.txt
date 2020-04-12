@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\bin\Debug\MxtCfgConverter.exe.config
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\bin\Debug\MxtCfgConverter.exe
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\bin\Debug\MxtCfgConverter.pdb
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\obj\Debug\MxtCfgConverter.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\obj\Debug\MxtCfgConverter.MainForm.resources
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\obj\Debug\MxtCfgConverter.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\obj\Debug\MxtCfgConverter.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\obj\Debug\MxtCfgConverter.exe
+c:\users\david\documents\visual studio 2015\Projects\MxtCfgConverter\MxtCfgConverter\obj\Debug\MxtCfgConverter.pdb
