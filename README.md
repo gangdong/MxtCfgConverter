@@ -20,9 +20,9 @@ C# 语言开发。
 ## Usage
 1. Build this project with VS.
 2. Run "MXT Raw2Array Converter.exe".
-![screenshot](/Screenshot.png)
+![screenshot](https://github.com/gangdong/MxtCfgConverter/Screenshot.png)
 3. Click "import" button and select the configuration file you want to translate.
-![screenshot](/Screnshot1.png)
+![screenshot](https://github.com/gangdong/MxtCfgConverter/Screnshot1.png)
 4. After selected one, click "convert" button to start translate, the data being translated will be displayed and refresh the text box. Once translated is done, click "save" button to store the new file into the place where you want with a C standard header file.
 
 -----
