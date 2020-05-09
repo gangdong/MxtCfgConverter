@@ -1,6 +1,6 @@
 # MxtCfgConverter
 
-## Introduction [介绍]
+## Introduction
 A tiny tool to translate the ATMEL maXTouch series touchscreen controller configuration file into a C header file.
 
 ATMEL maXTouch touchscreen controller uses a specified format text file as configuration file. Under some circumstances, this kind of format file is not easy to use for the software integration, for example, when the phone was developing, it requires to load/read the chips configuration, the device driver obviously needs a standard recognizable format file rather than a specified format file. 
@@ -9,6 +9,7 @@ This tool translates it into a Hex array, outputs a standard C header file.
 
 Coding with C#.
 
+## 介绍
 一个小的windows平台下的工具，用于将ATMEL maXTouch 系列触摸屏控制芯片的配置文件转换为标准的 C 头文件。
 
 ATMEL maXTouch触摸屏控制器使用指定格式的文本文件作为配置文件。在某些情况下，这种格式文件不易用于软件集成，例如在手机开发时，需要加载/读取芯片配置，设备驱动程序显然需要一个标准的可识别格式文件而不是指定的格式文件。
@@ -19,10 +20,10 @@ C# 语言开发。
 
 ## Usage
 1. Build this project with VS.
-2. Run "MXT Raw2Array Converter.exe".
+2. Run "MXT Raw2Array Converter.exe".<br>
 ![screenshot](https://github.com/gangdong/MxtCfgConverter/blob/master/Screenshot/Screenshot.PNG)
-3. Click "import" button and select the configuration file you want to translate.
-![screenshot](https://github.com/gangdong/MxtCfgConverter/blob/master/Screenshot/Screnshot1.PNG)
+3. Click "import" button and select the configuration file you want to translate.<br>
+![screenshot](https://github.com/gangdong/MxtCfgConverter/blob/master/Screenshot/Screnshot1.PNG)<br>
 4. After selected one, click "convert" button to start translate, the data being translated will be displayed and refresh the text box. Once translated is done, click "save" button to store the new file into the place where you want with a C standard header file.
 
 -----
