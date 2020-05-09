@@ -26,7 +26,6 @@ C# 语言开发。
 ![screenshot](https://github.com/gangdong/MxtCfgConverter/blob/master/Screenshot/Screnshot1.PNG)<br>
 4. After selected one, click "convert" button to start translate, the data being translated will be displayed and refresh the text box. Once translated is done, click "save" button to store the new file into the place where you want with a C standard header file.
 
------
 ## 使用
 1. VS 下编译该工程
 2. 运行 “MXT Raw2Array Converter.exe”
